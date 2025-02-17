@@ -17,12 +17,12 @@ Bajo el marco de trabajo Scrum puedo llevar los proyectos buen termino, generand
 ## ¿Qué tecnologías uso?
 El Bootcamp de Henry me ha permitido adquirir mayor conocimiento y experiencia 🚀 Por lo que las principales tecnologías que manejo son:
 
-SQL Server </span> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="30" />
-MySQL
-Github </span> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" /> <br>
-Python </span> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" /><br>
-Power BI
-Tableu
+* <span style="font-size: 24px;">SQL Server </span> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="30" />
+* <span style="font-size: 24px;">MySQL
+* <span style="font-size: 24px;">Github </span> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" /> <br>
+* <span style="font-size: 24px;">Python </span> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" /><br>
+* <span style="font-size: 24px;">Power BI
+* <span style="font-size: 24px;">Tableu
 
 ## No dudes en contactarme!
 Juntos podemos realizar un gran proyecto que genere valor agregado y ayude en la solucion de problemas
