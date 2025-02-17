@@ -13,6 +13,12 @@ Me gustaria conocer mas acerca de machine learning y herramientas que ayuden a a
 A traves del analisis de datos puedo brindar insights valiosos que busquen la solucion a problemas.
 Bajo el marco de trabajo Scrum puedo llevar los proyectos buen termino, generando los resultados esperados para cada proyecto.
 
+## Proyectos 
+
+Enlisto los proyectos de Github en los cuales estoy o he participado:
+
+<https://github.com/F3l1p3B0n1lla/FactibilidadInventariosLicorera>
+
 
 ## ¿Qué tecnologías uso?
 El Bootcamp de Henry me ha permitido adquirir mayor conocimiento y experiencia 🚀 Por lo que las principales tecnologías que manejo son:
