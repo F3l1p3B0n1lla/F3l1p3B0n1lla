@@ -5,12 +5,12 @@
 </p>
 
 ## ¿Quién soy?
-Soy un Ingeniero Industrial, Scrum Master y analista de datos orientado en el mejoramiento continuo de las empresas y proyectos.
+Soy Analista de datos, Scrum Master, Green Belt e Ingeniero Industrial orientado en el mejoramiento continuo de las empresas y proyectos.
 
 Me gustaria conocer mas acerca de machine learning y herramientas que ayuden a automatizar y optimizar las operaciones.
 
 ## Lista de soluciones
-A traves del analisis de datos puedo brindar insights que busquen la solucion a problemas.
+A traves del analisis de datos puedo brindar insights valiosos que busquen la solucion a problemas.
 Bajo el marco de trabajo Scrum puedo llevar los proyectos buen termino, generando los resultados esperados para cada proyecto.
 
 
