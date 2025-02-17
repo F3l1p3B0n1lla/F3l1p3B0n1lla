@@ -1,8 +1,5 @@
 ## Hi there 👋 Mi nombre es Felipe Bonilla
 
-<p align="center">
-<img src="datos.JEPG"  height=300>
-</p>
 
 ## ¿Quién soy?
 Soy Analista de datos, Scrum Master, Green Belt e Ingeniero Industrial orientado en el mejoramiento continuo de las empresas y proyectos.
@@ -15,7 +12,7 @@ Bajo el marco de trabajo Scrum puedo llevar los proyectos buen termino, generand
 
 ## Proyectos 
 
-Enlisto los proyectos de Github en los cuales estoy o he participado:
+Lista proyectos de Github en los cuales estoy o he participado:
 
 <https://github.com/F3l1p3B0n1lla/FactibilidadInventariosLicorera>
 
