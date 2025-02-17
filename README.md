@@ -1,6 +1,8 @@
 ## Hi there 👋 Mi nombre es Felipe Bonilla
 
-<--**F3l1p3B0n1lla/F3l1p3B0n1lla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<p align="center">
+<img src="datos.JEPG"  height=300>
+</p>
 
 ## ¿Quién soy?
 Soy un Ingeniero Industrial, Scrum Master y analista de datos orientado en el mejoramiento continuo de las empresas y proyectos.
