@@ -1,6 +1,5 @@
 ## Hi there 👋 Mi nombre es Felipe Bonilla
 
-<!--
 **F3l1p3B0n1lla/F3l1p3B0n1lla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## ¿Quién soy?
