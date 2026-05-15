@@ -18,16 +18,16 @@ I also have experience working with data migration, business intelligence, repor
 
 ## What I Can Do
 
-✔️ Project Management & Agile Methodologies
-✔️ Business Process Improvement
-✔️ KPI Design & Performance Monitoring
-✔️ Dashboard Development in Power BI
-✔️ Data Analysis & Reporting
-✔️ SQL Databases & Data Management
-✔️ Excel Automation & Data Visualization
-✔️ Process Documentation & Optimization
-✔️ Cross-functional Team Coordination
-✔️ Strategic & Operational Analysis
+✔️  <span style="font-size: 24px;"> Project Management & Agile Methodologies
+✔️   <span style="font-size: 24px;">Business Process Improvement
+✔️   <span style="font-size: 24px;">KPI Design & Performance Monitoring
+✔️   <span style="font-size: 24px;">Dashboard Development in Power BI
+✔️   <span style="font-size: 24px;">Data Analysis & Reporting
+✔️   <span style="font-size: 24px;">SQL Databases & Data Management
+✔️   <span style="font-size: 24px;">Excel Automation & Data Visualization
+✔️   <span style="font-size: 24px;">Process Documentation & Optimization
+✔️   <span style="font-size: 24px;">Cross-functional Team Coordination
+✔️   <span style="font-size: 24px;">Strategic & Operational Analysis
 
 ## Technologies & Tools
 
@@ -63,6 +63,6 @@ I’m always interested in collaborating on projects focused on innovation, oper
 
 Linkedin: www.linkedin.com/in/diegofelipebonillaabello
 
-Correo: felipebonillaabello@gmail.com
+Mail: felipebonillaabello@gmail.com
 
 -->
