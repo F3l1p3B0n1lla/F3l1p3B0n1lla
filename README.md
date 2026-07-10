@@ -1,16 +1,45 @@
-## Hi there 👋 I'm Diego Felipe Bonilla Abello
+## 👋 Hi, I'm Diego Felipe Bonilla Abello
 
-Industrial Engineer | Project Manager | Data Analyst | Process Improvement Specialist
+Senior Project Manager | PMO | Business Analytics | Scrum Master
 
 
 ## About Me
-I am an Industrial Engineer with more than 8 years of experience leading projects, optimizing processes, and analyzing business data across different industries.
 
-My professional background combines project management, operational excellence, and data-driven decision-making. I have experience coordinating multidisciplinary teams, managing budgets and timelines, improving workflows, and developing strategic solutions that generate measurable business value.
+Industrial Engineer with 8+ years of experience leading strategic projects, PMO initiatives and business process optimization across multinational companies.
 
-Throughout my career, I have worked on process improvement initiatives, KPI monitoring, dashboard development, and operational analysis to support executive decision-making and organizational growth.
+I specialize in delivering business value through Project Management, Business Intelligence and Data Analytics.
 
-I also have experience working with data migration, business intelligence, reporting automation, and process documentation using agile and continuous improvement methodologies.
+## Core expertise
+
+📊 Project Management
+
+📈 PMO
+
+📉 Business Intelligence
+
+📊 Power BI
+
+🗄 SQL
+
+🐍 Python
+
+📋 Scrum
+
+⚙ Lean Six Sigma
+
+📌 Process Improvement
+
+📈 KPI Management
+* <span style="font-size: 24px;">Power BI
+* <span style="font-size: 24px;">SQL Server </span> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="30" />
+* <span style="font-size: 24px;">BigQuery
+* <span style="font-size: 24px;">Excel
+* <span style="font-size: 24px;">Python </span> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" /><br>
+* <span style="font-size: 24px;">Power Query
+* <span style="font-size: 24px;">Github </span> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" /> <br>
+* <span style="font-size: 24px;">Wrike
+* <span style="font-size: 24px;">Scrum
+* <span style="font-size: 24px;">Lean Six Sigma
 
 ## Certifications
 * <span style="font-size: 24px;">Scrum Master Certified (SMC®)
