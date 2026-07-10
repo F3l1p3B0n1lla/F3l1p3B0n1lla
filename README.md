@@ -29,6 +29,17 @@ I specialize in delivering business value through Project Management, Business I
 
 📌 Process Improvement
 
+## Professional experience
+
+🏢 Funtrition
+
+🏢 Abbott Laboratories
+
+🏢 Fresenius Medical Care
+
+🏢 Calzado Caprino
+
+
 📈 KPI Management
 * <span style="font-size: 24px;">Power BI
 * <span style="font-size: 24px;">SQL Server </span> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="30" />
@@ -41,35 +52,46 @@ I specialize in delivering business value through Project Management, Business I
 * <span style="font-size: 24px;">Scrum
 * <span style="font-size: 24px;">Lean Six Sigma
 
-## Certifications
-* <span style="font-size: 24px;">Scrum Master Certified (SMC®)
-* <span style="font-size: 24px;">Lean Six Sigma Green Belt
 
-## What I Can Do
+## Technical skills
 
-✔️  <span style="font-size: 24px;"> Project Management & Agile Methodologies
-✔️   <span style="font-size: 24px;">Business Process Improvement
-✔️   <span style="font-size: 24px;">KPI Design & Performance Monitoring
-✔️   <span style="font-size: 24px;">Dashboard Development in Power BI
-✔️   <span style="font-size: 24px;">Data Analysis & Reporting
-✔️   <span style="font-size: 24px;">SQL Databases & Data Management
-✔️   <span style="font-size: 24px;">Excel Automation & Data Visualization
-✔️   <span style="font-size: 24px;">Process Documentation & Optimization
-✔️   <span style="font-size: 24px;">Cross-functional Team Coordination
-✔️   <span style="font-size: 24px;">Strategic & Operational Analysis
+📁 Power BI
 
-## Technologies & Tools
+    Executive Dashboard
 
-* <span style="font-size: 24px;">Power BI
-* <span style="font-size: 24px;">SQL Server </span> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="30" />
-* <span style="font-size: 24px;">BigQuery
-* <span style="font-size: 24px;">Excel
-* <span style="font-size: 24px;">Python </span> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" /><br>
-* <span style="font-size: 24px;">Power Query
-* <span style="font-size: 24px;">Github </span> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" /> <br>
-* <span style="font-size: 24px;">Wrike
-* <span style="font-size: 24px;">Scrum
-* <span style="font-size: 24px;">Lean Six Sigma
+    PMO Dashboard
+
+    Sales Dashboard
+
+📁 SQL
+
+    Inventory Analysis
+
+    KPI Reporting
+
+📁 Python
+
+    Forecasting
+
+    ETL
+
+    Automation
+
+📁 Project Management
+
+    Templates
+
+    Project Charters
+
+    Risk Matrix
+
+📁 Process Improvement
+
+    Lean Six Sigma
+
+    BPM
+
+    Visio
 
 ## Featured Projects
 Inventory Feasibility Analysis – Liquor Distribution Industry
@@ -87,11 +109,20 @@ Development of a data analysis project focused on inventory feasibility and oper
 * <span style="font-size: 24px;">Operational Excellence
 * <span style="font-size: 24px;">Business Analysis
 
-## Let’s Connect!
+## 📜 Certifications
+* <span style="font-size: 24px;">Scrum Master Certified (SMC®)
+* <span style="font-size: 24px;">Lean Six Sigma Green Belt
+* <span style="font-size: 24px;">Data Analytics
+
+## 🌎 Let’s Connect!
 I’m always interested in collaborating on projects focused on innovation, operational efficiency, and data-driven solutions.
 
 Linkedin: www.linkedin.com/in/diegofelipebonillaabello
 
 Mail: felipebonillaabello@gmail.com
+
+GitHub: https://github.com/F3l1p3B0n1lla
+
+Portfolio:
 
 -->
