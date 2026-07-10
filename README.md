@@ -40,58 +40,36 @@ I specialize in delivering business value through Project Management, Business I
 🏢 Calzado Caprino
 
 
-📈 KPI Management
-* <span style="font-size: 24px;">Power BI
-* <span style="font-size: 24px;">SQL Server </span> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="30" />
-* <span style="font-size: 24px;">BigQuery
-* <span style="font-size: 24px;">Excel
-* <span style="font-size: 24px;">Python </span> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" /><br>
-* <span style="font-size: 24px;">Power Query
-* <span style="font-size: 24px;">Github </span> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" /> <br>
-* <span style="font-size: 24px;">Wrike
-* <span style="font-size: 24px;">Scrum
-* <span style="font-size: 24px;">Lean Six Sigma
+## 🛠 Technical skills
 
+Project Management
 
-## Technical skills
+Microsoft Project
+Jira
+Wrike
 
-📁 Power BI
+Business Intelligence
 
-    Executive Dashboard
+Power BI
+Excel
+SQL Server
+MySQL
 
-    PMO Dashboard
+Programming
 
-    Sales Dashboard
+Python
+Pandas
+Jupyter
 
-📁 SQL
+Cloud
 
-    Inventory Analysis
+Google Cloud Platform
 
-    KPI Reporting
+Process Modeling
 
-📁 Python
-
-    Forecasting
-
-    ETL
-
-    Automation
-
-📁 Project Management
-
-    Templates
-
-    Project Charters
-
-    Risk Matrix
-
-📁 Process Improvement
-
-    Lean Six Sigma
-
-    BPM
-
-    Visio
+Bizagi
+Camunda
+Visio
 
 ## Featured Projects
 Inventory Feasibility Analysis – Liquor Distribution Industry
