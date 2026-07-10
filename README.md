@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Diego Felipe Bonilla Abello
 
-Senior Project Manager | PMO | Business Analytics | Scrum Master
+Senior Project Manager | PMO | Business Analytics | Business Process Specialist | Scrum Master
 
 
 ## About Me
