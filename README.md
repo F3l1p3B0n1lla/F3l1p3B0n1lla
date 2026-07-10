@@ -44,32 +44,32 @@ I specialize in delivering business value through Project Management, Business I
 
 Project Management
 
-Microsoft Project
-Jira
-Wrike
+* Microsoft Project
+* Jira
+* Wrike
 
 Business Intelligence
 
-Power BI
-Excel
-SQL Server
-MySQL
+* Power BI
+* Excel
+* SQL Server
+* MySQL
 
 Programming
 
-Python
-Pandas
-Jupyter
+* Python
+* Pandas
+* Jupyter
 
 Cloud
 
-Google Cloud Platform
+* Google Cloud Platform
 
-Process Modeling
+Process Modeling:
 
-Bizagi
-Camunda
-Visio
+* Bizagi
+* Camunda
+* Visio
 
 ## Featured Projects
 Inventory Feasibility Analysis – Liquor Distribution Industry
@@ -79,7 +79,7 @@ Development of a data analysis project focused on inventory feasibility and oper
 🔗 GitHub Repository:
 <https://github.com/F3l1p3B0n1lla/FactibilidadInventariosLicorera>
 
-##Currently Interested In
+## Currently Interested In
 * <span style="font-size: 24px;">Project Management
 * <span style="font-size: 24px;">Business Intelligence
 * <span style="font-size: 24px;">Data Analytics
